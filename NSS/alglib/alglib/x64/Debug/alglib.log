@@ -1,0 +1,58 @@
+﻿  stdafx.cpp
+  alglibinternal.cpp
+c:\users\felix\source\repos\alglib\alglib\src\alglibinternal.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\alglibinternal.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\alglibinternal.cpp(23): note: use of precompiled header
+  alglibmisc.cpp
+c:\users\felix\source\repos\alglib\alglib\src\alglibmisc.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\alglibmisc.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\alglibmisc.cpp(23): note: use of precompiled header
+  ap.cpp
+c:\users\felix\source\repos\alglib\alglib\src\ap.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\ap.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\ap.cpp(33): note: use of precompiled header
+c:\users\felix\source\repos\alglib\alglib\src\ap.cpp(30): warning C4603: '_GNU_SOURCE': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\ap.cpp(30): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\ap.cpp(33): note: use of precompiled header
+  dataanalysis.cpp
+c:\users\felix\source\repos\alglib\alglib\src\dataanalysis.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\dataanalysis.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\dataanalysis.cpp(23): note: use of precompiled header
+  diffequations.cpp
+c:\users\felix\source\repos\alglib\alglib\src\diffequations.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\diffequations.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\diffequations.cpp(23): note: use of precompiled header
+  fasttransforms.cpp
+c:\users\felix\source\repos\alglib\alglib\src\fasttransforms.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\fasttransforms.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\fasttransforms.cpp(23): note: use of precompiled header
+  integration.cpp
+c:\users\felix\source\repos\alglib\alglib\src\integration.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\integration.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\integration.cpp(23): note: use of precompiled header
+  interpolation.cpp
+c:\users\felix\source\repos\alglib\alglib\src\interpolation.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\interpolation.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\interpolation.cpp(23): note: use of precompiled header
+  linalg.cpp
+c:\users\felix\source\repos\alglib\alglib\src\linalg.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\linalg.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\linalg.cpp(23): note: use of precompiled header
+  optimization.cpp
+c:\users\felix\source\repos\alglib\alglib\src\optimization.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\optimization.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\optimization.cpp(23): note: use of precompiled header
+  solvers.cpp
+c:\users\felix\source\repos\alglib\alglib\src\solvers.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\solvers.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\solvers.cpp(23): note: use of precompiled header
+  specialfunctions.cpp
+c:\users\felix\source\repos\alglib\alglib\src\specialfunctions.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\specialfunctions.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\specialfunctions.cpp(23): note: use of precompiled header
+  statistics.cpp
+c:\users\felix\source\repos\alglib\alglib\src\statistics.cpp(21): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\felix\source\repos\alglib\alglib\src\statistics.cpp(21): note: Add macro to precompiled header instead of defining here
+  c:\users\felix\source\repos\alglib\alglib\src\statistics.cpp(23): note: use of precompiled header
+  Generating Code...
+  alglib.vcxproj -> C:\Users\Felix\source\repos\alglib\x64\Debug\alglib.lib
